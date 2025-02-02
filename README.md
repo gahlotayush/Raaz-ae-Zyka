@@ -1,6 +1,6 @@
-# Forkify - Explore, Save, and Add Recipes 🍕
+#Raaz -Ae-Zyka   - Explore, Save, and Add Recipes 🍕
 
-Forkify is a web app where you can search for recipes, add your own recipes, and bookmark your favorites! You can also view saved bookmarks, browse through multiple pages of search results, and adjust the number of servings, which updates the ingredient quantities automatically.
+Raaz-Ae-Zyka  is a web app where you can search for recipes, add your own recipes, and bookmark your favorites! You can also view saved bookmarks, browse through multiple pages of search results, and adjust the number of servings, which updates the ingredient quantities automatically.
 
 ## Features 🚀
 
@@ -20,7 +20,7 @@ Forkify is a web app where you can search for recipes, add your own recipes, and
 
 ## Demo 🌟
 
-Check out the live demo of Forkify here: [Live Demo on Netlify](https://forkify-project-ryannyberg.netlify.app/)
+Check out the live demo ofRaaz -Ae-Zyka   here: [Live Demo on Netlify](https://Raaz - Ae - Zyka -project-ryannyberg.netlify.app/)
 
 **Website Screenshots:**
 
@@ -34,12 +34,12 @@ Check out the live demo of Forkify here: [Live Demo on Netlify](https://forkify-
 
 ## How to Run Locally ⚙️
 
-To run **Forkify** locally on your machine, follow these steps:
+To run **Raaz - Ae - Zyka ** locally on your machine, follow these steps:
 
 
 1. Clone the repository:
    
-   `git clone https://github.com/ryan-nyberg/Forkify-Website.git`
+   `git clone https://github.com/ryan-nyberg/Raaz - Ae - Zyka -Website.git`
 
 3. Install dependencies:
    
@@ -49,7 +49,7 @@ To run **Forkify** locally on your machine, follow these steps:
    
    `npm start`
 
-Now, open your browser and go to http://localhost:1234 to see the Forkify app running locally.
+Now, open your browser and go to http://localhost:1234 to see theRaaz -Ae-Zyka   app running locally.
 
 
 
